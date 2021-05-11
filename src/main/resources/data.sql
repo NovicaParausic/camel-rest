@@ -1,0 +1,5 @@
+# INSERT INTO user_table (id, name, surname, birth_year, email, phone_number, note, employeed, change_date) VALUES (1, 'Camel', 'sur1', '2013', 'bal@bla.com', '4345345', 'note1', true, '2012-07-09');
+# INSERT INTO user_table (id, name, surname, birth_year, email, phone_number, note, employeed, change_date) VALUES (2, 'Cafgfmel', 'sur1', '2013', 'bal2@bla.com', '4376567545345', 'note2', true, '2012-07-08');
+# INSERT INTO user_table (id, name, surname, birth_year, email, phone_number, note, employeed, change_date) VALUES (3, 'Cafgfmel2', 'sur1', '2013', 'bal3@bla.com', '43765675345', 'note3', true, '2012-07-08');
+# INSERT INTO user_table (id, name, surname, birth_year, email, phone_number, note, employeed, change_date) VALUES (4, 'Cafgfmel4', 'sur4', '2013', 'bal4@bla.com', '437675345', 'note4', true, '2012-07-03');
+# INSERT INTO user_table (id, name) VALUES (2, 'ActiveMQ');
